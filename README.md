@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello, I am Anatolii
 
+```
+- 🌱 I’m currently learning C/C++
+```
 <!--
 **AshParker19/AshParker19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
