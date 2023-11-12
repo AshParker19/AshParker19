@@ -28,5 +28,5 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashparker19&show_icons=true&locale=en" alt="ashparker19" /></p>
+<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ashparker19&show_icons=true&locale=en" alt="ashparker19" /></p>
 
