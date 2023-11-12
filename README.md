@@ -11,7 +11,7 @@
 
 - 🌍 Where I'm from I was born in Ukraine🇺🇦, and I've lived in Czech Republic🇨🇿 and Denmark🇩🇰
 
-- 📍 My current location [Lisbon, Portugal🇵🇹](Lisbon, Portugal🇵🇹)
+- 📍 My current location Lisbon, Portugal🇵🇹
 
 - 📫 How to reach me **ashparker4219@gmail.com**
 
