@@ -9,9 +9,9 @@
 
 * 📔 I want to learn **Python, automation and AI**
 
----
-
 * 📫 How to reach me **ashparker4219@gmail.com**
+  
+---
 
 * 🌪 What I like to do **coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓**
 
