@@ -1,4 +1,4 @@
-![Banner](./images/3e6bd00062f100f6254a7578e2ba5125.jpg)
+![Banner](./Desktop/3e6bd00062f100f6254a7578e2ba5125.jpg)
 <h1 align="center">Hi 👋, I'm Anatolii</h1>
 <h3 align="center">A passionate IT student at 42Lisboa</h3>
 
