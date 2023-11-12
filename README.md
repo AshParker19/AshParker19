@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anatolii</h1>
 <h3 align="center">A passionate IT student at 42Lisboa</h3>
-![MasterHead(https://www.alamy.com/coding-system-minimal-infographic-banner-vector-image328676067.html)]
+![Banner](./images/3e6bd00062f100f6254a7578e2ba5125.jpg)
+
 
 
 * 🔭 I’m currently working on [42_minishell](https://github.com/AshParker19/42_minishell)
