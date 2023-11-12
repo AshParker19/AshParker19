@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anatolii</h1>
 <h3 align="center">A passionate IT student at 42Lisboa</h3>
 
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iTtJ7nAqpIcAAAAC/stray-coding.gif">
 
 * 🔭 I’m currently working on [42_minishell](https://github.com/AshParker19/42_minishell)
 
@@ -11,13 +11,13 @@
 
 ---
 
+* 📫 How to reach me **ashparker4219@gmail.com**
+
 * 🌪 What I like to do **coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓**
 
 * 🌍 Where I'm from **I was born in Ukraine🇺🇦, and I've lived in Czech Republic🇨🇿 and Denmark🇩🇰**
 
 * 📍 My current location **Lisbon, Portugal🇵🇹**
-
-* 📫 How to reach me **ashparker4219@gmail.com**
 
 * ⚡ **I made the spontaneous decision to start coding when I was 21, and now I can't imagine my life without it**
 
