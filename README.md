@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C/C++**
 
-- 🌪 What I like to do [coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓](coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓)
+- 🌪 What I like to do coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓
 
 - 🌍 Where I'm from [I was born in Ukraine🇺🇦, and I've lived in Czech Republic🇨🇿 and Denmark🇩🇰](I was born in Ukraine🇺🇦, and I've lived in Czech Republic🇨🇿 and Denmark🇩🇰)
 
