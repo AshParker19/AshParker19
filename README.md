@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anatolii</h1>
 <h3 align="center">A passionate IT student at 42Lisboa</h3>
 
-```
-- 🔭 I’m currently working on [42_minishell](https://github.com/AshParker19/42_minishell)
 
-- 🌱 I’m currently learning **C/C++**
+* 🔭 I’m currently working on [42_minishell](https://github.com/AshParker19/42_minishell)
 
-- 📔 I want to learn **Python, automation and AI**
-```
+* 🌱 I’m currently learning **C/C++**
+
+* 📔 I want to learn **Python, automation and AI**
+
+---
 
 * 🌪 What I like to do **coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓**
 
