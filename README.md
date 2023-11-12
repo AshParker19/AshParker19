@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anatolii</h1>
 <h3 align="center">A passionate IT student at 42Lisboa</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iTtJ7nAqpIcAAAAC/stray-coding.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif">
 
 * 🔭 I’m currently working on [42_minishell](https://github.com/AshParker19/42_minishell)
 
