@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **C/C++**
 
-- 🌪 What I like to do coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓
-
-- 🌍 Where I'm from [I was born in Ukraine🇺🇦, and I've lived in Czech Republic🇨🇿 and Denmark🇩🇰](I was born in Ukraine🇺🇦, and I've lived in Czech Republic🇨🇿 and Denmark🇩🇰)
-
 - 📔 I want to learn **Python, automation and AI**
 
-- 📫 How to reach me **ashparker4219@gmail.com**
+- 🌪 What I like to do **coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓**
+
+- 🌍 Where I'm from I was born in Ukraine🇺🇦, and I've lived in Czech Republic🇨🇿 and Denmark🇩🇰
 
 - 📍 My current location [Lisbon, Portugal🇵🇹](Lisbon, Portugal🇵🇹)
+
+- 📫 How to reach me **ashparker4219@gmail.com**
 
 - ⚡ Fun fact **I made the spontaneous decision to start coding when I was 21, and now I can't imagine my life without it**
 
