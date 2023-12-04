@@ -8,8 +8,6 @@
 * 🌱 I’m currently learning **C/C++**
 
 * 📔 I want to learn **Python, automation and AI**
-
-* 📫 How to reach me **ashparker4219@gmail.com**
   
 ---
 
