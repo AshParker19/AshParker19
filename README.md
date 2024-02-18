@@ -1,13 +1,9 @@
 ![Header](./header2.png)
  
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hph4qmpjr3fmhyns6910pppgz3lmcj3p28byh0yf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 * 🔭 I’m currently working on 42_C++_modules
 
 * 🌱 I’m currently learning **C/C++**
-
-* 📔 I want to learn **Python, automation and AI**
   
 ---
 
