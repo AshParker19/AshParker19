@@ -4,8 +4,6 @@
 * 🔭 I’m currently working on 42_C++_modules
 
 * 🌱 I’m currently learning **C/C++**
-  
----
 
 * 🌪 What I like to do: **coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓**
 
