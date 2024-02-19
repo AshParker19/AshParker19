@@ -1,15 +1,13 @@
-![Header](./header2.png)
- 
 
 * 🔭 I’m currently working on 42_C++_modules
 
-* 🌱 I’m currently learning **C/C++**
+* 🌱 I’m currently learning **C++ and Java**
 
+* 📍 My current location: **Lisbon, Portugal🇵🇹**
+  
 * 🌪 What I like to do: **coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓**
 
 * 🌍 Where I'm from: **I was born in Ukraine🇺🇦, and I've lived in Czech Republic🇨🇿 and Denmark🇩🇰**
-
-* 📍 My current location: **Lisbon, Portugal🇵🇹**
 
 * ⚡ **_I made the spontaneous decision to start coding when I was 21, and now I can't imagine my life without it_**
 
