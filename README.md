@@ -1,7 +1,7 @@
 
 * 🔭 I’m currently working on 42_C++_modules
 
-* 🌱 I’m currently learning **C++ and Java**
+* 🌱 I’m currently learning **C++ and Kotlin**
 
 * 📍 My current location: **Lisbon, Portugal🇵🇹**
   
