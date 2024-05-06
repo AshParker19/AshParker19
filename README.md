@@ -1,5 +1,5 @@
 
-* 🔭 I’m currently working on 42_C++_modules
+* 🔭 I’m currently working on ft_irc
 
 * 🌱 I’m currently learning **C++ and Kotlin**
 
