@@ -9,8 +9,6 @@
 
 * 🌍 Where I'm from: **I was born in Ukraine🇺🇦, and I've lived in Czech Republic🇨🇿 and Denmark🇩🇰**
 
-* ⚡ **_I made the spontaneous decision to start coding when I was 21, and now I can't imagine my life without it_**
-
 ---
 
 <p align="center">
