@@ -1,7 +1,7 @@
 
 * 🔭 I’m currently working on `Inception`
 
-* 🌱 I’m currently learning **C++ and Kotlin**
+* 🌱 I’m currently learning `Docker` and `Kotlin`
 
 * 📍 My current location: **Lisbon, Portugal🇵🇹**
   
