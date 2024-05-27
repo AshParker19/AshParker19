@@ -3,7 +3,7 @@
 
 * 🌱 I’m currently learning `Docker` and `Kotlin`
 
-* 📍 My current location: **Lisbon, Portugal 🇵🇹**
+* 📍 My current location: **Lisbon, Portugal🇵🇹**
   
 * 🌪 What I like to do: **coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓**
 
