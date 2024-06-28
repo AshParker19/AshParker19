@@ -2,6 +2,8 @@
 * 🔭 I’m currently working on `Inception` and `ft_transcendence`
 
 * 🌱 I’m currently learning `Docker` and `Kotlin`
+  
+* 🤖 I'm interested in `Android Development`
 
 * 📍 My current location: **Lisbon, Portugal🇵🇹**
   
