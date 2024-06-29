@@ -4,7 +4,7 @@
 * 🌱 I’m currently learning `Docker` and `Kotlin`
   
 * 🤖 I'm interested in `Android Development`
-
+ 
 * 📍 My current location: **Lisbon, Portugal🇵🇹**
   
 * 🌪 What I like to do: **coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓**
