@@ -7,7 +7,7 @@
  
 * 📍 My current location: **Lisbon, Portugal🇵🇹**
   
-* 🌪 What I like to do: **coding all day👨‍💻, travelling🛸, reading books📚 and playing ping pong🏓**
+* 🌪 What I like to do: **coding all day👨‍💻, travelling🛸, reading books📚, playing ping pong🏓 and swimming🏊**
 
 * 🌍 Where I'm from: **I was born in Ukraine🇺🇦, and I've lived in Czech Republic🇨🇿 and Denmark🇩🇰**
 
