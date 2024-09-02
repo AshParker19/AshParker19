@@ -1,7 +1,5 @@
   
-* 🔭 I’m currently working on `Inception` and `ft_transcendence`
-
-* 🌱 I’m currently learning `Docker` and `Kotlin` 
+* 🔭 I’m currently working on `ft_transcendence`
   
 * 🤖 I'm interested in `Android Development`
  
