@@ -1,6 +1,4 @@
-  
-### 🤖 I'm interested in `Android Development`
-  
+    
 ---
 
 <p align="center">
